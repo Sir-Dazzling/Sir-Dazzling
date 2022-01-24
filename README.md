@@ -2,7 +2,7 @@
 
 Nice to meet you, ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-I am a fullstack software enginneer, passionate in building quality solutions and exploring modern innovations in technology.
+I am a fullstack software developer, passionate in building quality solutions and exploring modern innovations in technology.
 
 As a software enginner, i possess an obsessive attention to detail, and undying love in building solutions that make a difference
 
@@ -28,7 +28,7 @@ PostgreSql, MongoDb
 
 React Native, Flutter
 
-Docker, Aws, Google Cloud, Firebase, Azure
+Docker, Aws, Digital Ocean, Google Cloud, Firebase, Azure
 
 <!--START_SECTION:waka-->
 ```text

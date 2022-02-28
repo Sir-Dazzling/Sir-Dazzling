@@ -31,9 +31,11 @@ React Native, Flutter
 Docker, Aws, Digital Ocean, Google Cloud, Firebase, Azure
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sir-Dazzling&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
